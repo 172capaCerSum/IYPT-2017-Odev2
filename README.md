@@ -18,6 +18,7 @@ http://www.fenbilimleri.org/2015-02-09-20-48-19/diger-deneyler/item/524-sark%C4%
 
 Çalışmamız daha çok internet ortamında araştırma ve deneyleri gözlemleyerek yaptığımız bir çalışmadır.Grubumuz( Sümeyye Betül Şimşek, Ceren Erensoy)'un çalışma ortamı genelde okul oldu fakat deneyimiz uzun süreli bir deney olduğundan ev şartları altında basit bir deney oldu. Kimyasal sarkıtlarla ilgili verileri grup çalışması olarak verileri paylaşarak analiz ettik.
   Deneyimizi size kısaca anlatmak isteriz. 
+ 
  #MALZEMELER:
  İki adet kavanoz
  Kalın pamuklu sicim
