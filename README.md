@@ -1,85 +1,45 @@
-#Ödev Dönüş Tarihi
-**Ödev dönüş tarihi 10 Ocak 2018 Çarşamba günüdür.** Yapacağınız IYPT projeniz ikinci dönemde de devam edecektir. Projenin bütünüyle tamamlanma tarihi 10 Mayıs 2017'dir. 
 
-# Ödev-2 Yönergeleri 
-1. Odev2'yi grup hesabınıza fork ediniz. 
-2. Aşağıdaki açıklamaları izleyerek kendi hesabınıza fork ettiğiniz Odev2'yi değiştiriniz. 
-3. Dosyayı değiştirmek için ya "Github" içindeki kalem sekmesini kullanabilirsiniz. 
-
-## Yapılacak İşlemler
-Bu hafta projenizle ilgili olarak deneylere başlayacaksanız. Biran önce deneylere başlamanız, projenizde ortaya 
-çıkabilecek sorunlar hakkında tedbir almanızı sağlayacaktır. Bu hafta basit deney malzemeleri kullanarak deneyinizi
-gerçekteltirmeye çalışın. Önemli olan deneye başlamanızdır. Deneyde başarısız olmanız, notunuzu hiçbir şekilde etkilemeyecektir.
-Hatta başarısız olmanız doğaldır. Belki de birkaç kere başarısız olacaksınız. Ama sonunda başaracaksınız. Edison'u örnek alın; 
-Edison ampülü bulmak için en az 1000 kere başarısız oldu. Bir gazeteci "Bin kere nasıl başarısız oldunuz?" diye sorduğunda, 
-Edison: "Ben bin kere başarısız olmadım; ampülü bulmak 1000 adımda oldu" diye cevaplamıştır. 
-
-1. Ödev-2 içinde örnek bir **Materyal ve Yöntem** bölümü bulacaksınız. Buna benzer olarak projenizi yazmaya çalışacaksınız. (http://www.edu.pe.ca/threeoaks/departments/science/resources/Formal_Lab_Report_Guidelines.pdf ). Daha detaylı örnek bir rapor için daha önce yazılmış bir IYPT raporunu örnek alabilirsiniz (http://iyptmag.phy.ntnu.edu.tw/upload/journal/prog/51e0fdd3_20140702.pdf) Sizin yaptığınız deneyi tekrar etmek isteyen bir kişi, bu kısımdaki *materyal ve yöntemleri* kullanarak sizin yaptığınız deney sonuçlarına ulaşabilmeledir. Unutmayın ki deney tekrar edilebilir olmalıdır. Bunun için sizin raporunuzu okuyan bir kişi, bu çalışmanızı tekrar edebilmelidir. Yapacağınız deney için benzer bir "Materyal ve Yöntem" başlığı yazınız. 500 kelimeyi geçmeyecek şekilde bu başlığı doldurunuz. 
-
-Daha kapsamlı bir ödev için daha önce yapılmış 
-2. Yaptığınız çalışmaların foğtaraflarını ve videolarınızı çekmeniz gerekecek. Gerektiğinde çizimler yapacaksınız. Odev2 deposunun içinde "pic" ve "video" diye bir dizin açılmıştır. Deney sırasında çektiğiniz resimler, deney grafiklerini "pic" dizini içinde saklayacaksınız. Çektiğiniz video'ları ise "video" dizini içinde saklayacaksınız. 
-3. Yapacağınız deney seçtiğiniz konuya yakın olmalıdır. Deney başaralı veya başarısız da olabilir. Önemli olan bir deney yapmanız ve bu deneyin videosunu ve resimlerini github hesabına yüklemeniz gerekmektedir. 
-
-## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+Bizim projemiz IYPT’nin 1998 yılında yayınladığı buz sarkıtları (saçakları) sorusuyla ilgili bir proje. Projemizin amacı buz sarkıtlarının nasıl oluştuğunu araştırmak ve araştırmamızı en uygun şekilde açıklamak.Bunun için gözlem,çeşitli internet sayfaları ve makalelerden aldığımız bilgiler yöntemiyle hareket edebiliriz. Şüphesiz herkes kışın kar yağdığında oluşan buz sarkıtlarından haberdardır. Genellikle ev veya binaların çatılarında oluşan bu sarkıtların nasıl oluştuğunu kısaca açıklayalım. Kışın yağan karlar yağmurlarla birlikte erimeye başlar ve bu erimeye başlayan karlar evlerin ve binaların çatılarından su damlaları halinde damlar. Hava sıcaklığı eksili derecelere düştüğünde çatı eğimli olduğundan su damlacıkları aşşağıya doğru damlarken yavaş yavaş donmaya başlar. Donan su damlacıkları birikerek sivri bir buzul yapı oluşturur ve bu buzul yapıya saçak (buz sarkıtı) denir. (Sarkıtlar çatıdan düştüğü takdirde sivri kısmı oldukça ciddi yaralanmalara veya ölümlere sebep olabilir. Bu yüzden dikkat edilmedilir.) Özetle saçakların oluşabilmesi için hava sıcaklığının eksili derecede olması gerekir. Devamlı ilerlemekte olan sarkıtlar kardan eriyip damlayan damlacıklarla daha da büyümektedir. Özellikle iş hanlarında oldukça uzun ve büyük sarkıtların oluştuğu bilinir.
+
+Kaynakçalar
+Wonders, O. "How Are Icicles Formed?" , Wonderoplis. https://wonderopolis.org/wonder/how-are-icicles-formed Son erişim tarihi : tarih yok
+“Buz Sarkıtları Nasıl Oluşur”, Denkbilgi.com http://www.denkbilgi.com/buz-sarkitlari-nasil-olusur.html Son erişim tarihi: 10 Aralık 2015.
+Binns, C. "Icicle Formation Mystery Solved" , Livescience https://www.livescience.com/1074-icicle-formation-mystery-solved.html Son erişim tarihi: 9 Ocak , 2006 
+
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Özetten de anlaşıldığı üzere konumuz sarkıtlar ve dikitler. Araştırmamızın amacı kimyasal sarkıtların nasıl oluştuğunu modellemek. 
+Bu projeye başlarken yalnızca buzdan oluşan sarkıtları incelemiştik.Fakat sonra araştırma olanağımızı genilşeterek kimyasal sarkıtlarla ilgili de bilgiler toparladık.Literatürde olan tüm çalışmaları inceledik ve yapacağımız çalışmayı belirldik.Yaptığımız çalışmanın konusu kimyasal sarkıtlar olduğu için bilimve deney sitelerinde bu konuyla ilgili çokça deneyler yer alıyor. Kaynakçada yer alan sitedeki çalışmayı denedik. Fakat sadece bu siteye bağlı kalmadan çoğu yerden bigi topladık. Çalışmamız kimyasal sarkıtların  nasıl oluştuğunu anlatan küçük bir deneden oluşuyor.
+#KAYNAKÇA:
+http://www.fenbilimleri.org/2015-02-09-20-48-19/diger-deneyler/item/524-sark%C4%B1tlar-ve-dikitler-nas%C4%B1l-olu%C5%9Fur?.html
+
 # Materyal ve Yöntem (Experimental Setup)
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
+Çalışmamız daha çok internet ortamında araştırma ve deneyleri gözlemleyerek yaptığımız bir çalışmadır.Grubumuz( Sümeyye Betül Şimşek, Ceren Erensoy)'un çalışma ortamı genelde okul oldu fakat deneyimiz uzun süreli bir deney olduğundan ev şartları altında basit bir deney oldu. Kimyasal sarkıtlarla ilgili verileri grup çalışması olarak verileri paylaşarak analiz ettik.
+  Deneyimizi size kısaca anlatmak isteriz. 
+ #MALZEMELER:
+ İki adet kavanoz
+ Kalın pamuklu sicim
+ Mukavva
+ İngiliz tuzu (müshil olarak kullanılan magnezyum sülfat, eczaneden alınabilir)
+ Su
+ Yemek kaşığı
+ 
+ #DENEYİMİZİN YAPILIŞI:
+  Öncelikle iki adet kavanozlarımızı üçte ikisi dolu olacak şekilde suyla dolduruyoruz.Suyla dolu olan kavanozlarımıza magnezyum sülfat atıyoruzve karıştırıyoruz.(derişik bir karışım olmalı)Sonra kalın pamuklu ipimizi iki kavanozumuzun içine gelecek şekilde koyup ortada 'V' gibi bir şekil bırakıyoruz.
+   Deneyimizin yapılış süreci bitti. Şimdi geriye kalan tek şey kimyasal sarkıt oluşana kadar beklemek.
+   
+   Deneyimizde beklememizin amacı magnezyum sülfat-su karışımının pamuklu ip tarfafından çekilip 'V' şeklinde oluşturduğumuz yerde birikmesini istememizdir. Deneyimiz biz iki grup üyesi tarafından yapılmış, ilerleyen 4 gün içerisinde de beklenip analiz edilmiştir.
 
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
-
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
-
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
 
 # Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
+Deneyimizin sonuçlarını analiz ettiğimizde pamuklu ipin 'V' şekli ucunda küçük tuz parçası oluştuğunu gözlemledik. Fakat literatürdeki deneylere baktığımızda, bu deneyde bizim elde ettiğimiz tuzun (kimyasal sarkıt) pamuklu iğim ucunda kütle olarak daha fazla olduğunuzu gözlemledik ve neden böyle olduğunu düşündük ve karşımıza iki sonuç çıktı:
 
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
+ 1.Kullandığımız pamuklu ip sanıldıpı kadat pamuklu değildi ve bu yüzden çözeltiyi istediğimiz kadar çekemedğinden istediğmiz gibi bir sonuca ulaşamadık.
+ 2.Yaptığımız çözelti yeteri kadar derişik bir çözelti olmadığından oluşan kimyasal sarkıt miktarı de istediğimiz gibi olmadı
+ 
+  Deneyimizin sonucu yukarıda yazılanlar gibiyidi. Deneyi yaparken çok keyif aldık ve yaptığmız eksikliklerinde neler olduğunu artuk biliyoruz.
 
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
